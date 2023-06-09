@@ -157,6 +157,9 @@ margin: 0px;
 
 .sign-up-button-second {
   border: 2px solid #e5e7eb;
+  background-color: #3882f6;
+  border-radius: 5px;
+  font-weight: 900;
 }
 
 .footer-wrapper {
